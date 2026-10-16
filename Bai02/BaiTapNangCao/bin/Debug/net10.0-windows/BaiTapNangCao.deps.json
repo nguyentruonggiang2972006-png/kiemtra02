@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BaiTapNangCao/1.0.0": {
+        "runtime": {
+          "BaiTapNangCao.dll": {}
+        },
+        "resources": {
+          "cs/BaiTapNangCao.resources.dll": {
+            "locale": "cs"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiTapNangCao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

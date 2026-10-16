@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtra02\\Bai02\\BaiTapNangCao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\ebfd9741-3c31-4019-9d94-93665fa73fd7_Bai03.zip.fd7\\Bai03\\Bai03\\Form2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\0c4a9cee-702c-47f5-baaf-2443b7572284_Bai03.zip.284\\Bai03\\Bai03\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\121c8aa8-0746-417f-ba44-31d8a6c00e21_Bai03.zip.e21\\Bai03\\Bai03\\Form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\31bbee83-2586-44a8-b9bf-15962a93474a_Bai03.zip.74a\\Bai03\\Bai03\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70E7DE1-EAAB-DFD1-9381-6926B91BD953}|BaiTapNangCao.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\kiemtra02\\bai02\\baitapnangcao\\frminventorymanager.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70E7DE1-EAAB-DFD1-9381-6926B91BD953}|BaiTapNangCao.csproj|solutionrelative:frminventorymanager.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70E7DE1-EAAB-DFD1-9381-6926B91BD953}|BaiTapNangCao.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\kiemtra02\\bai02\\baitapnangcao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70E7DE1-EAAB-DFD1-9381-6926B91BD953}|BaiTapNangCao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\78886436-f0a9-4825-9ab6-d11a6440b590_Bai03.zip.590\\Bai03\\Bai03\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\cf5fe444-7f59-4abb-9921-560fbb4793ae_Bai03.zip.3ae\\Bai03\\Bai03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\967498ee-5ac2-4069-8f03-406b802eee18_Bai03.zip.e18\\Bai03\\Bai03\\Form3.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671F0EB8-343B-42C2-A399-14DB4E39FD1F}|BaiTapNangCao.csproj|C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtra02\\Bai02\\BaiTapNangCao\\frminventorymanager.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{671F0EB8-343B-42C2-A399-14DB4E39FD1F}|BaiTapNangCao.csproj|solutionrelative:frminventorymanager.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70E7DE1-EAAB-DFD1-9381-6926B91BD953}|BaiTapNangCao.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\kiemtra02\\bai02\\baitapnangcao\\frminventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70E7DE1-EAAB-DFD1-9381-6926B91BD953}|BaiTapNangCao.csproj|solutionrelative:frminventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\31bbee83-2586-44a8-b9bf-15962a93474a_Bai03.zip.74a\\Bai03\\Bai03\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Users\\admin\\AppData\\Local\\Temp\\31bbee83-2586-44a8-b9bf-15962a93474a_Bai03.zip.74a\\Bai03\\Bai03\\Form2.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\31bbee83-2586-44a8-b9bf-15962a93474a_Bai03.zip.74a\\Bai03\\Bai03\\Form2.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Users\\admin\\AppData\\Local\\Temp\\31bbee83-2586-44a8-b9bf-15962a93474a_Bai03.zip.74a\\Bai03\\Bai03\\Form2.cs [Read Only]",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAEEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T04:08:27.861Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\78886436-f0a9-4825-9ab6-d11a6440b590_Bai03.zip.590\\Bai03\\Bai03\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Users\\admin\\AppData\\Local\\Temp\\78886436-f0a9-4825-9ab6-d11a6440b590_Bai03.zip.590\\Bai03\\Bai03\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\78886436-f0a9-4825-9ab6-d11a6440b590_Bai03.zip.590\\Bai03\\Bai03\\Form1.Designer.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Users\\admin\\AppData\\Local\\Temp\\78886436-f0a9-4825-9ab6-d11a6440b590_Bai03.zip.590\\Bai03\\Bai03\\Form1.Designer.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T04:08:26.824Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\0c4a9cee-702c-47f5-baaf-2443b7572284_Bai03.zip.284\\Bai03\\Bai03\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Users\\admin\\AppData\\Local\\Temp\\0c4a9cee-702c-47f5-baaf-2443b7572284_Bai03.zip.284\\Bai03\\Bai03\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\0c4a9cee-702c-47f5-baaf-2443b7572284_Bai03.zip.284\\Bai03\\Bai03\\Form1.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Users\\admin\\AppData\\Local\\Temp\\0c4a9cee-702c-47f5-baaf-2443b7572284_Bai03.zip.284\\Bai03\\Bai03\\Form1.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T04:08:25.995Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\cf5fe444-7f59-4abb-9921-560fbb4793ae_Bai03.zip.3ae\\Bai03\\Bai03\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Users\\admin\\AppData\\Local\\Temp\\cf5fe444-7f59-4abb-9921-560fbb4793ae_Bai03.zip.3ae\\Bai03\\Bai03\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\cf5fe444-7f59-4abb-9921-560fbb4793ae_Bai03.zip.3ae\\Bai03\\Bai03\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Users\\admin\\AppData\\Local\\Temp\\cf5fe444-7f59-4abb-9921-560fbb4793ae_Bai03.zip.3ae\\Bai03\\Bai03\\Program.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T04:08:25.48Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\967498ee-5ac2-4069-8f03-406b802eee18_Bai03.zip.e18\\Bai03\\Bai03\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Users\\admin\\AppData\\Local\\Temp\\967498ee-5ac2-4069-8f03-406b802eee18_Bai03.zip.e18\\Bai03\\Bai03\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\967498ee-5ac2-4069-8f03-406b802eee18_Bai03.zip.e18\\Bai03\\Bai03\\Form3.Designer.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Users\\admin\\AppData\\Local\\Temp\\967498ee-5ac2-4069-8f03-406b802eee18_Bai03.zip.e18\\Bai03\\Bai03\\Form3.Designer.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T04:08:24.606Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\121c8aa8-0746-417f-ba44-31d8a6c00e21_Bai03.zip.e21\\Bai03\\Bai03\\Form3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Users\\admin\\AppData\\Local\\Temp\\121c8aa8-0746-417f-ba44-31d8a6c00e21_Bai03.zip.e21\\Bai03\\Bai03\\Form3.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\121c8aa8-0746-417f-ba44-31d8a6c00e21_Bai03.zip.e21\\Bai03\\Bai03\\Form3.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Users\\admin\\AppData\\Local\\Temp\\121c8aa8-0746-417f-ba44-31d8a6c00e21_Bai03.zip.e21\\Bai03\\Bai03\\Form3.cs [Read Only]",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T04:08:24.183Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\ebfd9741-3c31-4019-9d94-93665fa73fd7_Bai03.zip.fd7\\Bai03\\Bai03\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Users\\admin\\AppData\\Local\\Temp\\ebfd9741-3c31-4019-9d94-93665fa73fd7_Bai03.zip.fd7\\Bai03\\Bai03\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\ebfd9741-3c31-4019-9d94-93665fa73fd7_Bai03.zip.fd7\\Bai03\\Bai03\\Form2.Designer.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Users\\admin\\AppData\\Local\\Temp\\ebfd9741-3c31-4019-9d94-93665fa73fd7_Bai03.zip.fd7\\Bai03\\Bai03\\Form2.Designer.cs [Read Only]",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T04:08:21.365Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtra02\\Bai02\\BaiTapNangCao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtra02\\Bai02\\BaiTapNangCao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T01:45:20.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmInventoryManager.cs.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtra02\\Bai02\\BaiTapNangCao\\frmInventoryManager.cs.cs",
+              "RelativeDocumentMoniker": "frmInventoryManager.cs.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtra02\\Bai02\\BaiTapNangCao\\frmInventoryManager.cs.cs",
+              "RelativeToolTip": "frmInventoryManager.cs.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T01:44:55.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmInventoryManager.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtra02\\Bai02\\BaiTapNangCao\\frmInventoryManager.cs",
+              "RelativeDocumentMoniker": "frmInventoryManager.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtra02\\Bai02\\BaiTapNangCao\\frmInventoryManager.cs",
+              "RelativeToolTip": "frmInventoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T01:44:23.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmInventoryManager.cs.cs [Design]",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtra02\\Bai02\\BaiTapNangCao\\frmInventoryManager.cs.cs",
+              "RelativeDocumentMoniker": "frmInventoryManager.cs.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtra02\\Bai02\\BaiTapNangCao\\frmInventoryManager.cs.cs [Design]",
+              "RelativeToolTip": "frmInventoryManager.cs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T01:43:21.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
